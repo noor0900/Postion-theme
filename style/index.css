@@ -75,7 +75,7 @@ li{
 .pic>button{
     position: relative;
     top: -100px;
-    left: 500px;
+    left: 550px;
     width: 8%;
     height: 35px;
     border-radius: 15px;
@@ -501,8 +501,5 @@ li{
     text-align: center;
     top: 18px;
 }
-
-
-
 
 
